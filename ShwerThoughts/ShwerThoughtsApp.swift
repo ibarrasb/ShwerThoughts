@@ -11,7 +11,7 @@ import SwiftUI
 struct ShwerThoughtsApp: App {
     var body: some Scene {
         WindowGroup {
-            FeedView()
+            MainTabView()
         }
     }
 }
