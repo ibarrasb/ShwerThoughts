@@ -18,6 +18,7 @@
 		E927FD8528CFBA33004306F2 /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E927FD8428CFBA33004306F2 /* NotificationsView.swift */; };
 		E927FD8728CFBA5F004306F2 /* MessagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E927FD8628CFBA5F004306F2 /* MessagesView.swift */; };
 		E927FD8B28D50527004306F2 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E927FD8A28D50527004306F2 /* ProfileView.swift */; };
+		E927FD8D28D51244004306F2 /* ThoughtFilterViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E927FD8C28D51244004306F2 /* ThoughtFilterViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		E927FD8428CFBA33004306F2 /* NotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsView.swift; sourceTree = "<group>"; };
 		E927FD8628CFBA5F004306F2 /* MessagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesView.swift; sourceTree = "<group>"; };
 		E927FD8A28D50527004306F2 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		E927FD8C28D51244004306F2 /* ThoughtFilterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThoughtFilterViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 		E927FD8828D504CC004306F2 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				E927FD8C28D51244004306F2 /* ThoughtFilterViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -290,6 +293,7 @@
 				E927FD8B28D50527004306F2 /* ProfileView.swift in Sources */,
 				E927FD7A28CFB1DB004306F2 /* FeedView.swift in Sources */,
 				E927FD6328CF9BE6004306F2 /* ContentView.swift in Sources */,
+				E927FD8D28D51244004306F2 /* ThoughtFilterViewModel.swift in Sources */,
 				E927FD6128CF9BE6004306F2 /* ShwerThoughtsApp.swift in Sources */,
 				E927FD7628CFB1B4004306F2 /* ThoughtRowView.swift in Sources */,
 				E927FD8328CFBA08004306F2 /* ExploreView.swift in Sources */,
